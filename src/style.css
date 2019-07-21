@@ -3,3 +3,53 @@
 @tailwind components;
 
 @tailwind utilities;
+
+
+.nav-item {
+  @apply block mr-8 py-1 px-6 rounded text-red-darker uppercase border-white leading-loose shadow mt-2;
+  background:rgba(255,200,207,0.8);
+}
+.nav-item:hover {
+  @apply text-red-light;
+  background:rgba(79,8,2,0.8);
+}
+.nav-item.active {
+  @apply text-red-darkest;
+  background:rgba(254,139,153,0.8);
+}
+.bg-gradient {
+  background-image: linear-gradient(to bottom right, #EFF3F3, #F0F9F9);
+}
+.bg-gradient-dark {
+  background-image: linear-gradient(to bottom right, #00D1D0, #007A83);
+}
+.bg-gradient-side-dark {
+  background-image: linear-gradient(to bottom, #00D1D0, #007A83);
+}
+.container {
+  @apply w-4/5 m-auto;
+}
+.clearfix:after {
+  content:" ";
+  display:block;
+  clear:both;
+}
+.article-button {
+  @apply shadow tracking-wide bg-white text-sm  text-blue-darker font-semibold mt-1 py-3 px-6 rounded-lg mr-0;
+}
+.article-button:hover {
+  @apply bg-blue text-white;
+}
+
+::selection {
+  @apply text-white;
+  background: #fe8b99 /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  @apply text-white;
+  background: #fe8b99; /* Gecko Browsers */
+}
+
+.min-h-footer: {
+  min-height: calc(100vh - 220px);
+}
