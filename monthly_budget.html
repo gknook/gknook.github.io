@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en" class="bg-blue-darkest">
+  <head>
+    <meta data-n-head="true" charset="utf-8">
+    <meta data-n-head="true" content="width=device-width,initial-scale=1" name="viewport">
+    <meta data-n-head="true" content="Guido Knook. On becoming a balanced product leader." name="description" data-hid="description">
+    <title data-n-head="true">Guido Knook - Monthly budget sheet</title>
+    <link href="/favicon.png" rel="icon" data-n-head="true" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+  </head>
+  <body class="font-sans mt-0">
+   
+<div class="bg-repeat min-h-screen" style="background-image:url(https://res.cloudinary.com/gknook/image/upload/v1572281596/money_b2ykna.png); background-size:12em 12em">
+<div class="relative sm:w-4/5 sm:px-0 px-10 max-w-5xl m-auto">
+  <div class="clearfix">
+    <div class="pt-8 text-grey-lighter text-base leading-loose">
+      <div class="lg:w-1/2 md:my-24 mt-12 mb-6 w-full float-left">
+  <h1 class="font-sans text-grey-lighter leading-normal tracking-wider text-5xl font-semibold w-full">
+    Control your finances</h1>
+  <div class="flex mt-6">
+    <div class="bg-white rounded-lg w-2/5 py-4 md:px-8 px-4 flex-none max-w-xxs"><img
+        src="https://res.cloudinary.com/gknook/image/upload/v1572275049/gsheet_fgxuog.png"></div>
+    <div class="w-3/5 flex-initial md:px-8 pl-4 font-medium md:text-lg text-sm align-middle">
+      <p>A simple google sheet designed for insight.</p>
+    </div>
+  </div>
+</div>
+<div class="lg:w-1/2 w-full md:mt-24 md:mt-12 mb-6 float-right max-w-lg"><img
+    src="https://res.cloudinary.com/gknook/image/upload/v1572276258/screenshot_ygeysm.png"></div>
+<div class="clearfix"></div>
+<div>
+  <form id="my-form">
+    <div class="md:w-1/3 w-full md:pr-8 pb-4 float-left">
+      <input id="name" type="text" name="name" placeholder="your name"
+        class="bg-white focus:outline-none focus:shadow-outline border-b-4 border-gray-light font-medium rounded-lg py-3 px-4 block w-full text-blue appearance-none leading-normal" />
+    </div>
+    <div class="md:w-1/3 w-full md:pr-8 pb-4 float-left"><input id="email" type="email" name="email" placeholder="email"
+        required
+        class="bg-white focus:outline-none focus:shadow-outline border-b-4 border-gray-light font-medium rounded-lg py-3 px-4 block w-full text-blue appearance-none leading-normal" />
+    </div>
+    <div data-sk-error="email"></div>
+    <div class="md:w-1/3 w-full float-left">
+      <button type="submit"
+        class="bg-green-lighter hover:bg-green text-green-darkest font-bold py-2 px-4 w-full border-b-4 border-green hover:border-green rounded-lg">Get
+        the link</button></div>
+  </form>
+
+  <script>
+    window.sk = window.sk || function () { (sk.q = sk.q || []).push(arguments) };
+
+    sk('form', 'init', {
+      id: '3f36eb785917',
+      element: '#my-form',
+      onSuccess: function (config) {
+        var h = config.h;
+        var form = config.form;
+        var replacement = h('div.success-message', 'Thank you for your interest. I\'ll share the sheet with you soon!');
+        form.parentNode.replaceChild(replacement, form);
+      },
+    });
+  </script>
+
+  <script defer src="https://js.statickit.com/statickit.js"></script>
+  <div class="clearfix mb-12"></div>
+</div>
+    </div>
+  </div>
+</div>
+</div>
