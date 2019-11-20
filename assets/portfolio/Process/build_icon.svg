@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>build_icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="build_icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <circle id="Oval-Copy" cx="40" cy="40" r="40"></circle>
+            <circle id="Oval-Copy" stroke="#FFFFFF" stroke-width="2" fill="#0077BB" cx="40" cy="40" r="21"></circle>
+            <g id="Group-2" transform="translate(49.718802, 14.000000)">
+                <path d="M18.1336949,22.0538971 C16.5666586,11.8334324 9.47334417,3.43338398 -1.42108547e-13,-2.27373675e-13" id="Path" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"></path>
+                <polygon id="Path-4-Copy" fill="#FFFFFF" transform="translate(18.000000, 26.000000) rotate(89.000000) translate(-18.000000, -26.000000) " points="13 23 13 29 23 26"></polygon>
+            </g>
+            <g id="Group-2" transform="translate(38.562203, 63.124473) rotate(120.000000) translate(-38.562203, -63.124473) translate(27.562203, 47.124473)">
+                <path d="M18.2352066,22.7792469 C16.899564,12.231987 9.69652916,3.51427197 -1.42108547e-13,-2.27373675e-13" id="Path" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"></path>
+                <polygon id="Path-4-Copy" fill="#FFFFFF" transform="translate(18.000000, 26.000000) rotate(89.000000) translate(-18.000000, -26.000000) " points="13 23 13 29 23 26"></polygon>
+            </g>
+            <g id="Group-2" transform="translate(20.799038, 27.859374) rotate(240.000000) translate(-20.799038, -27.859374) translate(9.799038, 11.859374)">
+                <path d="M18.1344171,22.0586095 C16.5688388,11.8360145 9.47480011,3.43391165 -1.42108547e-13,-2.27373675e-13" id="Path" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"></path>
+                <polygon id="Path-4-Copy" fill="#FFFFFF" transform="translate(18.000000, 26.000000) rotate(89.000000) translate(-18.000000, -26.000000) " points="13 23 13 29 23 26"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

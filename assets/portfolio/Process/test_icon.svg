@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>test_icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="test_icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-Copy">
+            <circle id="Oval-Copy" cx="40.489456" cy="39.7207952" r="39.5061728"></circle>
+            <circle id="Oval-Copy" stroke="#FFFFFF" stroke-width="3" fill="#0077BB" cx="40.489456" cy="39.7207952" r="20.7407407"></circle>
+            <g id="Group-3" transform="translate(26.654321, 26.666667)">
+                <polygon id="Path-4-Copy" fill="#FFFFFF" transform="translate(3.345679, 22.333333) rotate(90.000000) translate(-3.345679, -22.333333) " points="-1.65432099 19.3333333 -1.65432099 25.3333333 8.34567901 22.3333333"></polygon>
+                <line x1="3.34567901" y1="0.773031919" x2="3.34567901" y2="20.5261183" id="Line-2" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"></line>
+            </g>
+            <g id="Group-3-Copy" transform="translate(49.845679, 38.845679) rotate(-180.000000) translate(-49.845679, -38.845679) translate(46.345679, 25.345679)">
+                <polygon id="Path-4-Copy" fill="#FFFFFF" transform="translate(3.345679, 22.000000) rotate(90.000000) translate(-3.345679, -22.000000) " points="-1.65432099 19 -1.65432099 25 8.34567901 22"></polygon>
+                <line x1="3.34567901" y1="0.592592593" x2="3.34567901" y2="20.345679" id="Line-2" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

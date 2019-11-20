@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>ideate_icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ideate_icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-Copy" transform="translate(-1.000000, 0.000000)">
+            <circle id="Oval-Copy" cx="40" cy="40.2173052" r="40"></circle>
+            <circle id="Oval-Copy" stroke="#FFFFFF" stroke-width="3" fill="#0077BB" cx="40.9955742" cy="40.2173052" r="21"></circle>
+            <g id="Group-3" transform="translate(37.000000, 55.217305)">
+                <polygon id="Path-4-Copy" fill="#FFFFFF" transform="translate(4.000000, 19.782695) rotate(89.000000) translate(-4.000000, -19.782695) " points="-1 16.7826948 -1 22.7826948 9 19.7826948"></polygon>
+                <line x1="4" y1="7.63278329e-17" x2="4" y2="18" id="Line-2" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"></line>
+            </g>
+            <g id="Group-3-Copy" transform="translate(63.933013, 25.750000) rotate(-120.000000) translate(-63.933013, -25.750000) translate(60.433013, 12.250000)">
+                <polygon id="Path-4-Copy" fill="#FFFFFF" transform="translate(3.705127, 21.778684) rotate(89.000000) translate(-3.705127, -21.778684) " points="-1.29487298 18.7786842 -1.29487298 24.7786842 8.70512702 21.7786842"></polygon>
+                <line x1="3.5" y1="0.782694818" x2="3.5" y2="20.7826948" id="Line-2" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"></line>
+            </g>
+            <g id="Group-3" transform="translate(17.213079, 25.512184) rotate(-240.000000) translate(-17.213079, -25.512184) translate(13.713079, 11.512184)">
+                <polygon id="Path-4-Copy" fill="#FFFFFF" transform="translate(3.364448, 22.789586) rotate(89.000000) translate(-3.364448, -22.789586) " points="-1.63555157 19.7895856 -1.63555157 25.7895856 8.36444843 22.7895856"></polygon>
+                <line x1="3.5" y1="0.782694818" x2="3.5" y2="20.7826948" id="Line-2" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

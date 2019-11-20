@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>empathize_icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="empathize_icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-Copy">
+            <circle id="Oval-Copy" transform="translate(40.000000, 40.217305) rotate(-180.000000) translate(-40.000000, -40.217305) " cx="40" cy="40.2173052" r="40"></circle>
+            <circle id="Oval-Copy" stroke="#FFFFFF" stroke-width="3" fill="#0077BB" cx="39.9955742" cy="40.2173052" r="21"></circle>
+            <g id="Group-3" transform="translate(40.000000, 17.500000) rotate(-180.000000) translate(-40.000000, -17.500000) translate(36.000000, 0.000000)">
+                <polygon id="Path-4-Copy" fill="#FFFFFF" transform="translate(4.000000, 29.782695) rotate(89.000000) translate(-4.000000, -29.782695) " points="-1 26.7826948 -1 32.7826948 9 29.7826948"></polygon>
+                <polygon id="Path-4-Copy-2" fill="#FFFFFF" transform="translate(4.000000, 5.000000) rotate(-90.000000) translate(-4.000000, -5.000000) " points="-1 2 -1 8 9 5"></polygon>
+                <line x1="4" y1="10" x2="4" y2="28" id="Line-2" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"></line>
+            </g>
+            <g id="Group-3-Copy" transform="translate(20.964102, 52.217305) rotate(-300.000000) translate(-20.964102, -52.217305) translate(17.464102, 34.217305)">
+                <polygon id="Path-4-Copy" fill="#FFFFFF" transform="translate(3.705127, 30.778684) rotate(89.000000) translate(-3.705127, -30.778684) " points="-1.29487298 27.7786842 -1.29487298 33.7786842 8.70512702 30.7786842"></polygon>
+                <polygon id="Path-4-Copy" fill="#FFFFFF" transform="translate(3.633605, 5.333979) rotate(-90.000000) translate(-3.633605, -5.333979) " points="-1.36639504 2.33397905 -1.36639504 8.33397905 8.63360496 5.33397905"></polygon>
+                <line x1="3.5" y1="9.78269482" x2="3.5" y2="29.7826948" id="Line-2" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"></line>
+            </g>
+            <g id="Group-3" transform="translate(59.889807, 52.455121) rotate(-60.000000) translate(-59.889807, -52.455121) translate(56.389807, 33.955121)">
+                <polygon id="Path-4-Copy" fill="#FFFFFF" transform="translate(3.364448, 31.789586) rotate(89.000000) translate(-3.364448, -31.789586) " points="-1.63555157 28.7895856 -1.63555157 34.7895856 8.36444843 31.7895856"></polygon>
+                <polygon id="Path-4-Copy" fill="#FFFFFF" transform="translate(3.645396, 5.841590) rotate(-90.000000) translate(-3.645396, -5.841590) " points="-1.35460428 2.84159022 -1.35460428 8.84159022 8.64539572 5.84159022"></polygon>
+                <line x1="3.5" y1="9.78269482" x2="3.5" y2="29.7826948" id="Line-2" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>
